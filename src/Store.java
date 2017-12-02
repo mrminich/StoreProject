@@ -4,7 +4,7 @@ public class Store
    
    public Store()
    {
-      myName = "Giant Food";
+      myName = "Giant Food2";
    }
 
 }
